@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,300;1,400&display=swap');
+
+#total{
+    width: 98%;
+    max-width: 980px;
+    height: auto;
+    margin: auto;
+}
+#topo{
+    width: 100%;
+    height: auto;
+    margin: left;
+}
+#logo{
+    width: 204px;
+    height: 84px;
+    margin: 18px auto;
+}
+#menu{
+    width: 100%;
+    height: 40px;
+    background-color: #bf174a;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#menu a{
+    color: #FFF;
+    text-decoration: none;
+    font-size: 22px;
+    margin: 0 30px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+#menu a:hover{
+    text-decoration: underline;
+}
+
+ #banner{
+    width: 100%;
+    height: auto;
+    float: left;
+    margin: 3px auto;
+}
